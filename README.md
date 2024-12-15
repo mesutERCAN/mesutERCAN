@@ -1,6 +1,8 @@
 <h1 align="center">Merhaba 👋, ben Mesut ERCAN</h1>
 <h3 align="center">Ankara/Türkiye'de yaşayan bir lise öğrencisiyim.</h3>
 <h3 align="center">Ostim OSB Teknik Kolejin`de okuyorum</h3>
+<h3 align="center">Bilişim Teknolojileri alanında eğitim alıyorum</h3>
+
 
 
 
