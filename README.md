@@ -26,7 +26,7 @@
   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
     </a> <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png%29%5D%28https:/developer.mozilla.org/en-US/docs/Web/JavaScript" alt="python" width="40" height="40"/> </a> </p>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="python" width="40" height="40"/> </a> </p>
     <p><img align="left" src="" alt="mesutercan" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mesutercan&show_icons=true&locale=tr" alt="mesutercan" /></p>
